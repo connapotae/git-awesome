@@ -1,3 +1,1 @@
-Hello, Bootcamp.
-
-# Chapter 1
+Hello, KBTG Kampus
